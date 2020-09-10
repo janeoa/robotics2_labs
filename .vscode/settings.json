@@ -1,0 +1,7 @@
+{
+    "cmake.configureOnOpen": false,
+    "python.autoComplete.extraPaths": [
+        "/home/assetmalik/RoboticsII/devel/lib/python2.7/dist-packages",
+        "/opt/ros/kinetic/lib/python2.7/dist-packages"
+    ]
+}
