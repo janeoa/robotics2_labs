@@ -13,6 +13,8 @@ This repository was created on the 3rd lab and contains packag assigned to it:
 it is a simple package that has *movejoint* executable that executes squarewave to record the step response with amplitude of 1 rad
 
 ## lab 3: step and sine response
+The coding example is accessable via link
+https://youtu.be/aOFC33QO2wc
 ### Step high P
 ![Step high P](/lab3%20step%20high%20p%20Asset.png)
 ### Step low P
