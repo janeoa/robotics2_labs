@@ -12,4 +12,4 @@ This repository was created on the 3rd lab and contains packag assigned to it:
 ## moveit
 it is a simple package that has *movejoint* executable that executes squarewave to record the step response with amplitude of 1 rad
 
-![Image of Yaktocat](/https://github.com/janeoa/robotics2_labs/raw/master/lab3%20sine%20high%20p%20Asset.png)
+![Image of Yaktocat](/raw/master/lab3%20sine%20high%20p%20Asset.png)
