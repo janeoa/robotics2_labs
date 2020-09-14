@@ -21,7 +21,10 @@ int main(int argc, char **argv){
         msg_to_send.data = sin(loopCount/loopRate/1.7);
    
         pub3.publish(msg_to_send);
-        // ROS_INFO(str);
+
+        char theLog[80];
+        sprintf(theLog, "Sine loop cound: %ld", loopCount);
+        ROS_INFO(theLog);
 
         ros::spinOnce();
         loop_rate.sleep();
