@@ -4,7 +4,7 @@ It uses these external packages:
 * https://github.com/arebgun/dynamixel_motor
 * https://github.com/fenixkz/ros_snake_robot.git
 
-[Go to lab 3: step and sine response](##-lab-3-step-and-sine-response)
+[Go to lab 3: step and sine response](#-lab-3-step-and-sine-response)
 
 # Content overview
 This repository was created on the 3rd lab and contains packag assigned to it:
