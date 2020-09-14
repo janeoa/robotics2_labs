@@ -206,3 +206,6 @@ include_directories(
 
 add_executable(moveit src/movejoint.cpp)
 target_link_libraries(moveit ${catkin_LIBRARIES})
+
+add_executable(moveSine src/moveSine.cpp)
+target_link_libraries(moveSine ${catkin_LIBRARIES})
